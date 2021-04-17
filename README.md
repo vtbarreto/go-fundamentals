@@ -1,2 +1,2 @@
 # CursoGo
-<img src "https://simpleicons.org/icons/go.svg"
+![Badge]("https://simpleicons.org/icons/go.svg")
