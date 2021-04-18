@@ -9,11 +9,11 @@
 - [x] Conversao entre Tipos Basicos
 - [x] Operadores Aritmeticos
 - [x] Operadores Atribuicao
-- [X] Operadores Relacionais
+- [x] Operadores Relacionais
 - [x] Operadores Logicos
-- [X] Operadores Unarios
-- [X] Operador Ternario
-- [ ] Ponteiros
+- [x] Operadores Unarios
+- [x] Operador Ternario
+- [x] Ponteiros
 
 ## Segundo Modulo
 - [ ] If/Else
