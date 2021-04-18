@@ -7,7 +7,7 @@
 - [x] Tipos Basicos
 - [x] Tipos Basicos: Os Zeros
 - [x] Conversao entre Tipos Basicos
-- [ ] Operadores Aritmeticos
+- [x] Operadores Aritmeticos
 - [ ] Operadores Relacionais
 - [ ] Operadores Logicos
 - [ ] Operadores Unarios
