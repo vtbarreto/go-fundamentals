@@ -9,7 +9,7 @@
 - [x] Conversao entre Tipos Basicos
 - [x] Operadores Aritmeticos
 - [x] Operadores Atribuicao
-- [ ] Operadores Relacionais
+- [X] Operadores Relacionais
 - [ ] Operadores Logicos
 - [ ] Operadores Unarios
 - [ ] Operador Ternario
