@@ -16,7 +16,7 @@
 - [x] Ponteiros
 
 ## Segundo Modulo
-- [ ] If/Else
+- [x] If/Else
 - [ ] If/Else If
 - [ ] If com init
 - [ ] Laço for
