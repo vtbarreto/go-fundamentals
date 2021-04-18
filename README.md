@@ -8,6 +8,7 @@
 - [x] Tipos Basicos: Os Zeros
 - [x] Conversao entre Tipos Basicos
 - [x] Operadores Aritmeticos
+- [x] Operadores Atribuicao
 - [ ] Operadores Relacionais
 - [ ] Operadores Logicos
 - [ ] Operadores Unarios
