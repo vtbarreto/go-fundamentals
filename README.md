@@ -10,7 +10,7 @@
 - [x] Operadores Aritmeticos
 - [x] Operadores Atribuicao
 - [X] Operadores Relacionais
-- [ ] Operadores Logicos
+- [x] Operadores Logicos
 - [ ] Operadores Unarios
 - [ ] Operador Ternario
 - [ ] Ponteiros
