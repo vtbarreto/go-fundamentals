@@ -11,8 +11,8 @@
 - [x] Operadores Atribuicao
 - [X] Operadores Relacionais
 - [x] Operadores Logicos
-- [ ] Operadores Unarios
-- [ ] Operador Ternario
+- [X] Operadores Unarios
+- [X] Operador Ternario
 - [ ] Ponteiros
 
 ## Segundo Modulo
