@@ -21,7 +21,7 @@
 - [x] If com init
 - [x] Laço for
 - [x] Switch #01
-- [ ] Switch #02
-- [ ] Switch #03
+- [x] Switch #02
+- [x] Switch #03
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
