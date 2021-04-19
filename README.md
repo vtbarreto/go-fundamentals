@@ -20,7 +20,7 @@
 - [x] If/Else If
 - [x] If com init
 - [x] Laço for
-- [ ] Switch #01
+- [x] Switch #01
 - [ ] Switch #02
 - [ ] Switch #03
 
