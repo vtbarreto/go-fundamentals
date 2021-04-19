@@ -24,4 +24,6 @@
 - [x] Switch #02
 - [x] Switch #03
 
+## Terceiro Modulo
+- [x] Arrays
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
