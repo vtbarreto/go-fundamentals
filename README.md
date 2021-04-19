@@ -17,8 +17,8 @@
 
 ## Segundo Modulo
 - [x] If/Else
-- [ ] If/Else If
-- [ ] If com init
+- [x] If/Else If
+- [x] If com init
 - [ ] Laço for
 - [ ] Switch #01
 - [ ] Switch #02
