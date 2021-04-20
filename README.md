@@ -26,4 +26,5 @@
 
 ## Terceiro Modulo
 - [x] Arrays
+- [x] Forange
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
