@@ -28,7 +28,7 @@
 - [x] Arrays
 - [x] Forange
 - [x] Slice
-- [ ] Maps
+- [x] Maps
 - [ ] Maps Alinhados
 
 ## Quarto Modulo
