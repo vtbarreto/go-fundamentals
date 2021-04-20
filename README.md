@@ -29,7 +29,7 @@
 - [x] Forange
 - [x] Slice
 - [x] Maps
-- [ ] Maps Alinhados
+- [x] Maps Aninhados
 
 ## Quarto Modulo
 - [ ] Funcoes
