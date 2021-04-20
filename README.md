@@ -27,4 +27,13 @@
 ## Terceiro Modulo
 - [x] Arrays
 - [x] Forange
+- [x] Slice
+- [ ] Maps
+- [ ] Maps Alinhados
+
+## Quarto Modulo
+- [ ] Funcoes
+- [ ] Pilhas de Funcoes
+- [ ] Retorno Nomeado
+- [ ] Armazenar Funcoes em Variaveis
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
