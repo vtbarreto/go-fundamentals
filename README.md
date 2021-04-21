@@ -32,7 +32,7 @@
 - [x] Maps Aninhados
 
 ## Quarto Modulo
-- [ ] Funcoes
+- [x] Funcoes
 - [ ] Pilhas de Funcoes
 - [ ] Retorno Nomeado
 - [ ] Armazenar Funcoes em Variaveis
