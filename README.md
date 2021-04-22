@@ -33,8 +33,8 @@
 
 ## Quarto Modulo
 - [x] Funcoes
-- [ ] Pilhas de Funcoes
-- [ ] Retorno Nomeado
+- [x] Pilhas de Funcoes
+- [x] Retorno Nomeado
 - [ ] Armazenar Funcoes em Variaveis
 
 
