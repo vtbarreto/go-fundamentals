@@ -36,7 +36,7 @@
 - [x] Pilhas de Funcoes
 - [x] Retorno Nomeado
 - [x] Armazenar Funcoes em Variaveis
-- [ ] Funcao como parametro
+- [x] Funcao como parametro
 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
