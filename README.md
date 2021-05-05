@@ -37,6 +37,7 @@
 - [x] Retorno Nomeado
 - [x] Armazenar Funcoes em Variaveis
 - [x] Funcao como parametro
+- [x] Funcoes Variaticas
 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
