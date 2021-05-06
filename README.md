@@ -38,6 +38,7 @@
 - [x] Armazenar Funcoes em Variaveis
 - [x] Funcao como parametro
 - [x] Funcoes Variaticas
+- [ ] Closure
 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
