@@ -41,6 +41,7 @@
 - [x] Closure
 - [x] Recursividade
 - [x] Defer
+- [x] Ponteiro dentro de funcao
 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
