@@ -38,7 +38,9 @@
 - [x] Armazenar Funcoes em Variaveis
 - [x] Funcao como parametro
 - [x] Funcoes Variaticas
-- [ ] Closure
+- [x] Closure
+- [x] Recursividade
+- [x] Defer
 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
