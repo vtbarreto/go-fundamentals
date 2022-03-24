@@ -16,4 +16,6 @@ func main() {
 
 	imprimeX := closure()
 	imprimeX()
+
+	closure()()
 }
