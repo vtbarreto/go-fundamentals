@@ -1,8 +1,12 @@
-# Curso de Go
 
-## Primeiro Modulo
-- [x] Constantes
-- [x] Variaveis
+ <h1>Curso de Go</h1>
+ <p align="center">
+    <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif">
+ </p>
+ 
+## Primeiro Modulo  
+- [x] Constantes 
+- [x] Variaveis 
 - [x] Imprimir Valores
 - [x] Tipos Basicos
 - [x] Tipos Basicos: Os Zeros
@@ -14,6 +18,9 @@
 - [x] Operadores Unarios
 - [x] Operador Ternario
 - [x] Ponteiros
+
+
+
 
 ## Segundo Modulo
 - [x] If/Else
