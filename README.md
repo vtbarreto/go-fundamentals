@@ -47,5 +47,6 @@
 ## Quinto Modulo
 - [x] Struct
 - [x] Struct Aninhada
+- [x] Metodos
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
