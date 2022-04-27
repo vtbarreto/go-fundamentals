@@ -42,6 +42,9 @@
 - [x] Recursividade
 - [x] Defer
 - [x] Ponteiro dentro de funcao
+- [x] Init
 
+## Quinto Modulo
+- [x] Struct
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
