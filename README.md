@@ -1,5 +1,9 @@
 
- <h1>Curso de Go</h1>
+ <h1>Fundamentos em GO</h1>
+ <p>
+Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3@AuzTmi8fOS0TxFeu8gw9vrQfU8AXjHpdDyvIQbGB7b79DQVXAq60PR36FBwAUz7C/">Go (Golang): Explorando a Linguagem do Google</a>.
+ 
+ </p>
  <p align="center">
     <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif">
  </p>
