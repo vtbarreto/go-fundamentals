@@ -49,5 +49,6 @@
 - [x] Struct Aninhada
 - [x] Metodos
 - [x] Pseudo Heranca
+- [x] Tipo Personalizado
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
