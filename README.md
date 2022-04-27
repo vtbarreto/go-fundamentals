@@ -50,5 +50,14 @@
 - [x] Metodos
 - [x] Pseudo Heranca
 - [x] Tipo Personalizado
+- [ ] Interface 1
+- [ ] Interface 2
+- [ ] Composicao de interface
+- [ ] Tipo interface
+- [ ] Converter para JSON
+
+## Sexto Modulo
+- [ ] Criando Pacote
+- [ ] Instalando Pacote
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
