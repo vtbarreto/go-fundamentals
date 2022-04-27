@@ -48,5 +48,6 @@
 - [x] Struct
 - [x] Struct Aninhada
 - [x] Metodos
+- [x] Pseudo Heranca
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
