@@ -68,7 +68,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Converter para JSON
 
 ## Sexto Modulo
-- [ ] Criando Pacote
-- [ ] Instalando Pacote
+- [x] Criando Pacote
+- [x] Instalando Pacote
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
