@@ -63,7 +63,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Tipo Personalizado
 - [x] Interface 1
 - [x] Interface 2
-- [ ] Composicao de interface
+- [x] Composicao de interface
 - [ ] Tipo interface
 - [ ] Converter para JSON
 
