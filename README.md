@@ -65,7 +65,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Interface 2
 - [x] Composicao de interface
 - [x] Tipo interface
-- [ ] Converter para JSON
+- [x] Converter para JSON
 
 ## Sexto Modulo
 - [ ] Criando Pacote
