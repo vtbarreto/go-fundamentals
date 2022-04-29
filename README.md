@@ -62,7 +62,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Pseudo Heranca
 - [x] Tipo Personalizado
 - [x] Interface 1
-- [ ] Interface 2
+- [x] Interface 2
 - [ ] Composicao de interface
 - [ ] Tipo interface
 - [ ] Converter para JSON
