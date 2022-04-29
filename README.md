@@ -64,7 +64,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Interface 1
 - [x] Interface 2
 - [x] Composicao de interface
-- [ ] Tipo interface
+- [x] Tipo interface
 - [ ] Converter para JSON
 
 ## Sexto Modulo
