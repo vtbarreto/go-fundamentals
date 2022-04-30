@@ -71,4 +71,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Criando Pacote
 - [x] Instalando Pacote
 
+## Setimo Modulo
+- [ ] Concorrencia e Paralelismo
+
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
