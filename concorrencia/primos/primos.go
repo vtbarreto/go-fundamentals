@@ -27,7 +27,7 @@ func primos(n int, c chan int) {
 			}
 		}
 	}
-	close(c)
+	close(c) //Deve ser fechado o canal para evitar que o codigo caia em um deadlock
 }
 
 func main() {
