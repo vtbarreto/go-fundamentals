@@ -73,6 +73,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 
 ## Setimo Modulo
 - [x] Concorrencia e Paralelismo
-- [ ] Channel
+- [x] Channel
+- [x] Bloqueio 
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
