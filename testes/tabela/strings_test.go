@@ -8,6 +8,7 @@ import (
 const msgIndex = "%s (parte: %s) - Indeces : esperado (%d) <> encontrado (%d)"
 
 func TestIndex(t *testing.T) {
+	t.Parallel()
 	testes := []struct {
 		texto    string
 		parte    string
