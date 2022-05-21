@@ -8,7 +8,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
     <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif">
  </p>
  
-## Primeiro Modulo  
+## 
 - [x] Constantes 
 - [x] Variaveis 
 - [x] Imprimir Valores
@@ -23,10 +23,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Operador Ternario
 - [x] Ponteiros
 
-
-
-
-## Segundo Modulo
+## 
 - [x] If/Else
 - [x] If/Else If
 - [x] If com init
@@ -35,14 +32,14 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Switch #02
 - [x] Switch #03
 
-## Terceiro Modulo
+## 
 - [x] Arrays
 - [x] Forange
 - [x] Slice
 - [x] Maps
 - [x] Maps Aninhados
 
-## Quarto Modulo
+## 
 - [x] Funcoes
 - [x] Pilhas de Funcoes
 - [x] Retorno Nomeado
@@ -55,7 +52,7 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Ponteiro dentro de funcao
 - [x] Init
 
-## Quinto Modulo
+##
 - [x] Struct
 - [x] Struct Aninhada
 - [x] Metodos
@@ -67,11 +64,11 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Tipo interface
 - [x] Converter para JSON
 
-## Sexto Modulo
+## 
 - [x] Criando Pacote
 - [x] Instalando Pacote
 
-## Setimo Modulo
+##
 - [x] Concorrencia e Paralelismo
 - [x] Channel
 - [x] Bloqueio 
