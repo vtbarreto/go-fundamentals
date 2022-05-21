@@ -77,5 +77,6 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Generators
 - [x] Multiplexar
 - [x] Select
+- [x] Multiplexar com Select
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
