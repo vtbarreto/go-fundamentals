@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(notaFinal)
 
 	//cuidado
-	fmt.Println("Teste " + string(97))
+	fmt.Println("Teste " + fmt.Sprint(97))
 
 	//int para string
 	fmt.Println("Teste " + strconv.Itoa(123))
