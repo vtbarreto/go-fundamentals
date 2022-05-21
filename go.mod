@@ -4,5 +4,6 @@ go 1.18
 
 require (
 	github.com/ViniciusTeixeiraBarreto/area v0.0.0-20220429160726-044303e68de8
+	github.com/go-sql-driver/mysql v1.6.0
 	github.com/viniciusteixeirabarreto/gohtml v1.0.0
 )

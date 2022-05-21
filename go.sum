@@ -1,4 +1,6 @@
 github.com/ViniciusTeixeiraBarreto/area v0.0.0-20220429160726-044303e68de8 h1:tdFe6qqVwPweYUH+Hdk6l8lPqSBHywdSmi7Cc9neLOY=
 github.com/ViniciusTeixeiraBarreto/area v0.0.0-20220429160726-044303e68de8/go.mod h1:F1zM4tiyBK/SCkvH4rcBOAlveL9jKDKXA9a1Nbv0XOQ=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/viniciusteixeirabarreto/gohtml v1.0.0 h1:xNsLNDe1A/bzjD4OVT0uqIlrk0eowDTi4/hd+T3QBlw=
 github.com/viniciusteixeirabarreto/gohtml v1.0.0/go.mod h1:CqsCckRYNwaNCCLLfPZMI0+GvYIO3d2/thrsvIOsJj4=
