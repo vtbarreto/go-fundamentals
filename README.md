@@ -77,4 +77,6 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 - [x] Bloqueio 
 - [x] Channel com Buffer
 - [x] For em um Channel com Buffer
+- [x] Generators
+
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
