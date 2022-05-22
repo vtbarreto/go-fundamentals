@@ -96,5 +96,6 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 ##
 - [x] Servidor http com pagina static
 - [x] Servidor http com pagina dinamica
+- [x] Servidor http separando por verbo e consumindo banco de dados
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
