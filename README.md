@@ -89,5 +89,6 @@ Repositorio seguinto curso da Udemy <a href="https://www.udemy.com/share/101tNS3
 ##
 - [x] Criando banco de dados
 - [x] Realizando insert
+- [x] Transaction
 
 <img src="https://simpleicons.org/icons/go.svg" width="50"/>
