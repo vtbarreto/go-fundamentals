@@ -1,0 +1,7 @@
+mocks:
+  package: mocks
+  path: ../tipos/interface1
+  files:
+    - interface1.go
+  output: mocks
+  prefix: mock

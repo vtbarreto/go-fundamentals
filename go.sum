@@ -1,6 +1,9 @@
-github.com/ViniciusTeixeiraBarreto/area v0.0.0-20220429160726-044303e68de8 h1:tdFe6qqVwPweYUH+Hdk6l8lPqSBHywdSmi7Cc9neLOY=
-github.com/ViniciusTeixeiraBarreto/area v0.0.0-20220429160726-044303e68de8/go.mod h1:F1zM4tiyBK/SCkvH4rcBOAlveL9jKDKXA9a1Nbv0XOQ=
+github.com/GuilhermeCaruso/mooncake v0.0.0-20220829031911-fe7fac68d496 h1:gRzWyCX/Vde0mTnx8SyYrT2mHSB/v20eLW21ev5uoJ8=
+github.com/GuilhermeCaruso/mooncake v0.0.0-20220829031911-fe7fac68d496/go.mod h1:SVuzjncbZ6rnqgFHAZlXVn7l20kPEBfZtWwiHmzM7Sw=
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/viniciusteixeirabarreto/gohtml v1.0.0 h1:xNsLNDe1A/bzjD4OVT0uqIlrk0eowDTi4/hd+T3QBlw=
 github.com/viniciusteixeirabarreto/gohtml v1.0.0/go.mod h1:CqsCckRYNwaNCCLLfPZMI0+GvYIO3d2/thrsvIOsJj4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
