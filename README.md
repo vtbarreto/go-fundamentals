@@ -97,4 +97,4 @@
 - [x] Servidor http com pagina dinamica
 - [x] Servidor http separando por verbo e consumindo banco de dados
 
-<img src="https://simpleicons.org/icons/go.svg" width="50"/>
+<img src="https://simpleicons.org/icons/go.svg" width="50"/> - 2022
