@@ -9,7 +9,7 @@ import (
 func encaminhar(origem <-chan string, destino chan string) {
 	//infinitamente ira jogar de um canal para o outro
 
-	//mas o for fica esperando o origem receber valor para rodar, nao fila rodando a todo momento
+	//mas o for fica esperando o origem receber valor para rodar, nao fica rodando a todo momento
 	for {
 		destino <- <-origem
 	}
