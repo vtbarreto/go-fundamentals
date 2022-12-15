@@ -13,6 +13,6 @@ func Sum[V int64 | float64](m []V) V {
 func main() {
 	ints := []int64{1, 2, 3, 4, 5, 6}
 	floats := []float64{12.3, 13.5, 10.7, 11.42}
-	fmt.Println("soma int64:", Sum[int64](ints))
-	fmt.Println("soma float64:", Sum[float64](floats))
+	fmt.Println("soma int 64:", Sum[int64](ints))
+	fmt.Println("soma float 64:", Sum[float64](floats))
 }
